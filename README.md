@@ -13,9 +13,10 @@ The repository is organized into several sections:
 ### Video Files (still missing)
 The max size is 25mb p/file.
 
-### Text Files
+### <a href="https://github.com/dannielcosta/CISCO---CCNA-200---301/tree/main/200-301%20Full%20Certification%20Prep%20Course">🔗 Text Lessons</a>
 
-### Anki Flashcards (APKG Files)
+### <a href="https://github.com/dannielcosta/CISCO---CCNA-200---301/tree/main/Anki%20Flash%20Cards">🔗 Anki Flashcards (APKG Files)</a>
+Need to download ANKI - https://apps.ankiweb.net/
 
 ### Labs
 
