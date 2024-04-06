@@ -10,7 +10,8 @@ This repository serves as a comprehensive collection of study materials for prep
 
 The repository is organized into several sections:
 
-### Video Files
+### Video Files (still missing)
+The max size is 25mb p/file.
 
 ### Text Files
 
