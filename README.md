@@ -1,6 +1,6 @@
 # Cisco CCNA 200-301 Study Resources
 
-![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_Logo_Blue%2C_2017.svg/320px-Cisco_Logo_Blue%2C_2017.svg.png)
+![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/800px-Cisco_logo_blue_2016.svg.png)
 
 ## About
 
