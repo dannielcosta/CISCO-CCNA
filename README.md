@@ -10,7 +10,7 @@ This repository serves as a comprehensive collection of study materials for prep
 
 The repository is organized into several sections:
 
-### Video Files (still missing)
+### 🎥 Video Files (still missing) ❌
 The max size is 25mb p/file.
 
 ### <a href="https://github.com/dannielcosta/CISCO---CCNA-200---301/tree/main/200-301%20Full%20Certification%20Prep%20Course">🔗 Text Lessons</a>
